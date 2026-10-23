@@ -28,6 +28,15 @@
 - Git
 - GitHub
 
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://neolegya.github.io/kr2-bootstrap-shop/
+
+## Автор проекта
+ФИО: Иванов Егор Дмитриевич
+Группа: ЭФБО-12-25
+Ссылка на сайт: https://neolegya.github.io/kr2-bootstrap-shop/
+
 ## Структура проекта
 
 ```text
@@ -37,7 +46,3 @@ kr2-bootstrap-shop/
 │   └── custom.css
 ├── README.md
 └── .gitignore
-
-## Ссылка на опубликованный проект
-
-GitHub Pages: https://neolegya.github.io/kr2-bootstrap-shop/
