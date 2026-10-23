@@ -37,3 +37,7 @@ kr2-bootstrap-shop/
 │   └── custom.css
 ├── README.md
 └── .gitignore
+
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://neolegya.github.io/kr2-bootstrap-shop/
